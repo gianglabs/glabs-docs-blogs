@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkmy_website=globalThis.webpackChunkmy_website||[]).push([[3668],{30391(e){e.exports=JSON.parse('{"metadata":{"permalink":"/river-docs/blog","page":1,"postsPerPage":24,"totalPages":1,"totalCount":24,"blogDescription":"Insights and updates from the RiverXData team","blogTitle":"RiverXData Blog"}}')}}]);
