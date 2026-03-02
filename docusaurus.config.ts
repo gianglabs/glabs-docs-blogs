@@ -125,7 +125,7 @@ const config: Config = {
           items: [
             {
               label: "Tutorial",
-              to: "/docs/overview",
+              to: "/docs/resources/administration/environment",
             },
           ],
         },
