@@ -11,23 +11,20 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
 	{
-		title: "Easy to Use",
+		title: "Easy to Learn",
 		Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
 		description: (
 			<>
-				It is the ecosystem that powers the data analysis for
-				bioinformatics. It simplifies the bioinformatics from R&D to
-				products
+				Has helful documentation and tutorial to get you started quickly to be a bioinformatician
 			</>
 		),
 	},
 	{
-		title: "Power by one for all",
+		title: "Start from simple, scale to complex",
 		Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
 		description: (
 			<>
-				It powers by high performance computing, utilize cloud storage
-				and source control with user permission management.
+				Start from simple, scale to complex for real world bioinformatics problems
 			</>
 		),
 	},
@@ -36,8 +33,7 @@ const FeatureList: FeatureItem[] = [
 		Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
 		description: (
 			<>
-				RiverXData maintains a community to support each others. You
-				will never walk alone
+				Build a strong community with best practices and open source spirit
 			</>
 		),
 	},

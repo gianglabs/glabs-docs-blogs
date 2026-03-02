@@ -5,18 +5,16 @@ import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 
 const config: Config = {
-  title: "RiverXData",
+  title: "G Labs",
   tagline:
-    '"Simple, Effective, Efficient" powered by River (nttg8100@gmail.com)',
+    'Simple, Effective, Efficient',
   favicon: "img/logo-riverxdata-02.png",
 
-  url: "https://riverxdata.github.io",
-  baseUrl: "/river-docs/",
+  url: "https://gianglabs.github.io",
+  baseUrl: "/glabs-docs-blogs/",
   trailingSlash: false,
-
-  organizationName: "riverxdata",
-  projectName: "river-docs",
-
+  organizationName: "gianglabs",
+  projectName: "glabs-docs-blogs",
   onBrokenLinks: "throw",
 
   i18n: {
