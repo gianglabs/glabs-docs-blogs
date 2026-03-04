@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkmy_website=globalThis.webpackChunkmy_website||[]).push([[8931],{3396(a){a.exports=JSON.parse('{"metadata":{"permalink":"/glabs-docs-blogs/blog","page":1,"postsPerPage":23,"totalPages":1,"totalCount":23,"blogDescription":"Insights and updates from the RiverXData team","blogTitle":"RiverXData Blog"}}')}}]);
